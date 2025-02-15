@@ -1,1 +1,3 @@
-/*DROP DATABASE database_name;
+create database Test;
+go
+use Test;
